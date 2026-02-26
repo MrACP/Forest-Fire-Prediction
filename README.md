@@ -26,3 +26,10 @@ EDA and Machine Learning to predict upcoming event and Early detection and warni
 
 ## Tableau Visualization
 https://public.tableau.com/app/profile/akshayparulekar/viz/ForestFireDataset/ForestFireDashboard
+<p align="center">
+  <img src="images/ForestFireDashboard.png" width="600">
+</p>
+
+## Website
+https://sites.google.com/view/forest-fire-prediction/home
+

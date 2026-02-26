@@ -15,8 +15,12 @@ Need regional indices for better assessment.
 Natural deforestation.
 Decreasing biodiversity.
 
-##Solution
+## Solution
 EDA and Machine Learning to predict upcoming event and Early detection and warning system.
+
+## Architecture
+
+
 
 ## Tableau Visualization
 https://public.tableau.com/app/profile/akshayparulekar/viz/ForestFireDataset/ForestFireDashboard

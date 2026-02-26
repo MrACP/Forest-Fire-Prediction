@@ -1,19 +1,20 @@
-# Forest-Fire-Prediction
-To create an ecosystem for predicting and detecting possible fire catching situation in forest using EDA &amp; Machine Learning Techniques.
+# Forest Fire Prediction
+
+A machine learning project that predicts the likelihood of forest fire occurrence using environmental and meteorological data. The goal is to support early detection and risk assessment using data-driven insights.
 
 
+## Problem Statement
 
-## Problem  Statement
-The most common hazard in forests is forests fire. Forests fires are as old as the forests themselves. They pose a threat not only to the forest wealth but also to the entire regime to fauna and flora seriously disturbing the bio-diversity and the ecology and environment of a region. During summer, when there is no rain for months, the forests become littered with dry senescent leaves and twinges, which could burst into flames ignited by the slightest spark or by just a good combination of Heat-Fuel-Oxygen.
+Forest fires are a recurring environmental hazard that cause severe ecological and economic damage. During dry seasons, forests become highly susceptible to ignition due to heat, fuel accumulation, and low humidity. 
+
+The objective of this project is to build a predictive model that estimates the probability of fire occurrence using historical environmental data.
 
 ## Background
-Major recurring phenomenon.
-Cost of damages more than $4 billion.
-Degradation of our environment.
-Increased frequency and intensity.
-Need regional indices for better assessment.
-Natural deforestation.
-Decreasing biodiversity.
+
+- Forest fires cause billions of dollars in damage annually.
+- Increasing temperature and climate variability have intensified fire frequency.
+- Early detection systems can significantly reduce environmental and economic losses.
+- Data-driven regional indices can improve risk assessment and decision-making.
 
 ## Solution
 EDA and Machine Learning to predict upcoming event and Early detection and warning system.

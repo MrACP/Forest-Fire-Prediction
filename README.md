@@ -19,7 +19,9 @@ Decreasing biodiversity.
 EDA and Machine Learning to predict upcoming event and Early detection and warning system.
 
 ## Architecture
-
+<p align="center">
+  <img src="images/forest_fire_architecture.png" width="600">
+</p>
 
 
 ## Tableau Visualization

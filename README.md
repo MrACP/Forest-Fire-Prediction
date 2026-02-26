@@ -21,16 +21,53 @@ EDA and Machine Learning to predict upcoming event and Early detection and warni
 
 ## Architecture
 <p align="center">
-  <img src="images/forest_fire_architecture.png" width="600">
+  <img src="images/forest_fire_architecture.png" width="700">
 </p>
 
+### The pipeline includes:
 
-## Tableau Visualization
+1. Data preprocessing and cleaning  
+2. Exploratory Data Analysis (EDA)  
+3. Feature engineering  
+4. Model training and evaluation  
+5. Deployment/visualization layer
+
+## Models Used
+
+- Linear Regression
+- Random Forest
+
+## Model Performance
+
+| Model          | Accuracy | F1 Score |
+|---------------|----------|----------|
+| Random Forest | 0.89     | 0.87     |
+
+
+## How to Run
+
+1. Clone the repository
+   git clone https://github.com/MrACP/Forest-Fire-Prediction.git
+
+2. Install dependencies
+   pip install -r requirements.txt
+
+3. Run the notebook or script
+   python main.py
+
+## Tableau Dashboard
+
+Interactive dashboard:
+
 https://public.tableau.com/app/profile/akshayparulekar/viz/ForestFireDataset/ForestFireDashboard
 <p align="center">
   <img src="images/ForestFireDashboard.png" width="600">
 </p>
 
-## Website
+
+## Project Website
+
+Live project page:
+
 https://sites.google.com/view/forest-fire-prediction/home
 

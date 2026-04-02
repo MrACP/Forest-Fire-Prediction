@@ -169,4 +169,5 @@ python main.py
 
 ## Live Project Page
 
-https://sites.google.com/view/forest-fire-prediction/home
+<!-- https://sites.google.com/view/forest-fire-prediction/home -->
+https://tinyurl.com/forest-fire-prediction
